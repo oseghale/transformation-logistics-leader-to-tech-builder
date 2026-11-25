@@ -427,7 +427,7 @@ Emmanuel Ebea's transformation from logistics transportation and compliance lead
 
   </p>
 
-  <a href="https://github.com/oseghale/transformation-logistics-leader-to-tech-builder.git"
+  <a href="https://github.com/oseghale/transformation-logistics-leader-to-tech-builder.git" target="blank"
      class="btn btn-light">
 
      View Projects
